@@ -1,0 +1,13 @@
+var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/app/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0veitbj._.js")
+R.c("server/chunks/ssr/0jf-_next_dist_esm_build_templates_app-page_05-_dt7.js")
+R.c("server/chunks/ssr/[root-of-the-server]__1056s53._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__09f06ff._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__04~rhpx._.js")
+R.c("server/chunks/ssr/0jf-_next_dist_client_components_0wcdi_9._.js")
+R.c("server/chunks/ssr/0jf-_next_dist_client_components_builtin_forbidden_0m0dv2s.js")
+R.c("server/chunks/ssr/0jf-_next_dist_client_components_builtin_unauthorized_11qffbf.js")
+R.c("server/chunks/ssr/0jf-_next_dist_client_components_builtin_global-error_0g7upyb.js")
+R.c("server/chunks/ssr/0x6u_clients_nord-roasters_v1_0_build__next-internal_server_app_page_actions_0g1obst.js")
+R.m(65136)
+module.exports=R.m(65136).exports

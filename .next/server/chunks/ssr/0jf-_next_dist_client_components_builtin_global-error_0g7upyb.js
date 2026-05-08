@@ -1,0 +1,3 @@
+module.exports=[42427,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(24917);a.n(d("[project]/.openclaw/workspace/clients/nord-roasters/v1.0/build/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},17210,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(24917);a.n(d("[project]/.openclaw/workspace/clients/nord-roasters/v1.0/build/node_modules/next/dist/client/components/builtin/global-error.js"))},45519,a=>{"use strict";a.i(42427);var b=a.i(17210);a.n(b)},15910,a=>{a.n(a.i(45519))}];
+
+//# sourceMappingURL=0jf-_next_dist_client_components_builtin_global-error_0g7upyb.js.map
